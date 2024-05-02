@@ -1,0 +1,10 @@
+llama-cpp-python==0.2.65
+optimum==1.16.0
+transformers==4.40.1
+accelerate==0.29.3
+psutil==5.9.8
+langchain==0.1.17
+langchain-core==0.1.49
+langchain-community==0.0.36
+fastapi==0.110.3
+uvicorn==0.29.0
