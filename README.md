@@ -1,11 +1,11 @@
-# Uncensored Language Model using FastAPI and Wizard Vicuna 30B
+# Uncensored Language Model using LangChain, Llama.cpp, FastAPI and Wizard Vicuna 30B
 
 ## Disclaimer and Warning
 - **No Responsibility**: The creators of this project bear no responsibility
 - **Accuracy Not Guaranteed**: There is no guarantee of the predictive performance of these models.
 - **Independent Research**: Users should conduct their research and consult professionals.
 - **Compliance with Laws**: Ensure compliance with all applicable laws and regulations in your jurisdiction.
-- An uncensored model has no guardrails.
+-: An uncensored model has no guardrails.
 - You are responsible for anything you do with the model, just as you are responsible for anything you do with any dangerous object such as a knife, gun, lighter, or car. 
 - Publishing anything this model generates is the same as publishing it yourself. 
 - You are responsible for the content you publish, and you cannot blame the model any more than you can blame the knife, gun, lighter, or car for what you do with it.
