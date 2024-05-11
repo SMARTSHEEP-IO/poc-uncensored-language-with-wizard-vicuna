@@ -26,6 +26,7 @@ llm = LlamaCpp(
     max_tokens=2000,
     top_k=40,
     top_p=0.95,
+    device='cuda',  # Add this to target GPU
     n_threads=8,
     repeat_penalty=1.1,
     callback_manager=callback_manager,
